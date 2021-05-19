@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "763039313430",
+    "firebase_url": "https://jsheartstore-default-rtdb.firebaseio.com",
+    "project_id": "jsheartstore",
+    "storage_bucket": "jsheartstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763039313430:android:386cb32b588ed9e0e9cf37",
+        "android_client_info": {
+          "package_name": "com.jsheartstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763039313430-ilgkvpd6vuapnuue5tj234ae7ju4i6gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAns4rSC-q1DxpulXSsyR820LyFD3DiTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763039313430-ilgkvpd6vuapnuue5tj234ae7ju4i6gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763039313430:android:280b0a19cccbd3bee9cf37",
+        "android_client_info": {
+          "package_name": "com.mystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763039313430-s3ppb2loem29hso6kkf8mnbs7a2d4a8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mystore",
+            "certificate_hash": "089a9b7a2dfd26713e6d307b6a21161e6392577e"
+          }
+        },
+        {
+          "client_id": "763039313430-ilgkvpd6vuapnuue5tj234ae7ju4i6gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAns4rSC-q1DxpulXSsyR820LyFD3DiTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763039313430-ilgkvpd6vuapnuue5tj234ae7ju4i6gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
