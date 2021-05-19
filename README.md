@@ -1,6 +1,6 @@
-# mystore
+# E-commers
 
-A new Flutter application.
+Build E-commers with Firebase Database Realtime 
 
 ## Getting Started
 
