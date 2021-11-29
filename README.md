@@ -2,6 +2,9 @@
 
 Build E-commers with Firebase Database Realtime 
 
+Flutter Version --> Flutter 2.5.3
+tools --> firebase_core, firebase_auth, cloud_firestore, firebase_database
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
